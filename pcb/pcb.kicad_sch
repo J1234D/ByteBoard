@@ -2550,7 +2550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "JishnuKey:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 177.8 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -2630,7 +2630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "JishnuKey:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 156.21 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -2709,7 +2709,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "JishnuKey:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 199.39 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -2789,7 +2789,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "JishnuKey:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 156.21 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -3540,7 +3540,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "JishnuKey:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 156.21 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -3620,7 +3620,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "JishnuKey:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 177.8 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -3700,7 +3700,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "JishnuKey:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 199.39 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -3858,7 +3858,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "JishnuKey:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 199.39 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -4313,7 +4313,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "JishnuKey:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 177.8 99.06 0)
 			(hide yes)
 			(show_name no)
