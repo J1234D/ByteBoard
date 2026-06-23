@@ -57,7 +57,7 @@
 		(capping no)
 		(filling no)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_5755f5ff)
+			(layerselection 0x00000000_00000000_55555555_575555ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -88,9 +88,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerber")
 		)
 	)
 	(footprint "Display:ER_OLEDM0.91_1x-I2C"
@@ -14320,8 +14320,8 @@
 		(uuid "0eb6a5a5-1dd5-411e-827d-f13c1ce37805")
 	)
 	(gr_rect
-		(start 71 25.259779)
-		(end 165 112.740221)
+		(start 71 26.999999)
+		(end 165 111.499999)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -14330,14 +14330,14 @@
 		(layer "Edge.Cuts")
 		(uuid "98e35f59-1162-499b-9e3c-4397462a8166")
 	)
-	(gr_text "<ByteBoard /> v1.0\nDesigned By Jishnu Dutta • 2026"
-		(at 117 30.5 0)
-		(layer "F.Cu")
+	(gr_text "<ByteBoard /> v1.0\nDesigned By Jishnu Dutta \n• 2026"
+		(at 140.5 68 0)
+		(layer "F.SilkS")
 		(uuid "f43bc5f9-8459-45ec-8b77-3f9e6eec3de3")
 		(effects
 			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
+				(size 1.2 1.2)
+				(thickness 0.25)
 				(bold yes)
 			)
 			(justify left bottom)
@@ -14345,7 +14345,7 @@
 	)
 	(gr_text "HACK CLUB"
 		(at 147 84.5 0)
-		(layer "F.Cu")
+		(layer "F.SilkS")
 		(uuid "95f4f3cf-7090-4f1c-9c4f-3828d533480a")
 		(effects
 			(font
