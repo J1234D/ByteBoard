@@ -35,7 +35,7 @@ I created the 3×3 key matrix and connected it to the Seeed Studio XIAO RP2040. 
 
 Time spent: 5hrs
 
-# Day 2 — 21.06.2026: Schematic
+# Day 2 — 21.06.2026: Schematic and Routing
 
 I added SK6812 MINI-E LEDs around the edges of each key for a nice underglow effect, along with mounting holes. After that, I designed the PCB and completed the routing.
 
