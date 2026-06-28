@@ -5,7 +5,7 @@
 **Author:** Jishnu Dutta
 **Started:** 19 June 2026
 **Progress:** 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%
-**Current Stage:** PCB Design Complete
+**Current Stage:** Case final touches
 
 ---
 
