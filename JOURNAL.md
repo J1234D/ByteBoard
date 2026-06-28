@@ -102,8 +102,8 @@ Today I redesigned the mounting system to support **M3 × 5 × 4 mm heat-set ins
 **Lapse link:** <a href="https://lapse.hackclub.com/timelapse/U-9jxX9-YpG4">Day 7</a>
 
 # Day 8 — 28.06.2026: Completed case and firmware(Ready to Ship)
-Today I added colors to the case, added rounded corners and finalized the case design. Then I learned circuit python and wrote the temporary firmware.
-I also shipped the project.
+
+Today I finalized the enclosure by adding colours, refining the rounded corners, and making the final adjustments to the overall design. After finishing the CAD work, I started learning CircuitPython and wrote a simple temporary firmware so the macropad would be functional for the initial build. With everything ready, I submitted the project for shipping.
 
 <img src="devlog-assets/assembledcase.png" alt="assembled case" width="800">
 
