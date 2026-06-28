@@ -57,10 +57,44 @@ Sorry for not recording timelapses during the first three days. I will provide t
 
 # Day 4 — 23.06.2026: Starting the Case and Learning Fusion Tools
 
-I researched the soldering equipment I might need for this project and started designing the bottom plate of the case. I also had to fix many clearance issues to make the usb type c port usable.
+I researched the soldering equipment I might need for this project and started designing the bottom plate of the case. 
 
-<img src="devlog-assets/bottomplate-v1.png" alt="pcb with bottomplate" width="800">
+<img src="devlog-assets/bottomplate-v1.png" alt="bottomplate" width="800">
 
 Time spent: 7hrs
 
 Lapse link: <a href="https://lapse.hackclub.com/timelapse/p2R1_J-4u7W7">Day 4</a>
+
+# Day 5 — 25.06.2026: Fixing the Case 
+I fixed the standoffs, added walls in the bottom part of the case. I also had to fix many clearance issues to make the usb type c port usable.
+
+<img src="devlog-assets/bottomplate-v2.png" alt="pcb with bottomplate" width="800">
+
+Time spent: 3hrs
+
+Lapse link: <a href="https://lapse.hackclub.com/timelapse/Zt0mHt_HGtjv">Day 5</a>
+
+# Day 6 — 26.06.2026: Designing the Top Case
+
+Today I finished designing the top case. I added all the required cutouts, including the MX switch openings, OLED display window, rotary encoder hole, USB Type-C port opening, and the mounting holes. Getting the clearances right took quite a bit of tweaking, especially around the USB port.
+
+> **Note:** The Lapse website was offline for most of the day, so I could only record about **30 minutes**, even though I worked for **around 3 hours**.
+
+<img src="devlog-assets/topplate-v1.png" alt="Top case with all cutouts" width="800">
+
+**Time spent:** 3 hrs
+
+**Lapse link:** <a href="https://lapse.hackclub.com/timelapse/NO5s9hQjbQ5v">Day 6</a>
+(Only ~30 minutes recorded due to Lapse downtime.)
+
+---
+
+# Day 7 — 27.06.2026: Heat-Set Inserts & Final Touches
+
+Today I redesigned the mounting system to support **M3 × 5 × 4 mm heat-set inserts**. I updated all the standoffs, added chamfers to make inserting the brass inserts easier, and created counterbores for the screw heads. I also started refining the overall appearance by rounding the outer corners of the top case.
+
+<img src="devlog-assets/topplate-v2.png" alt="Heat-set insert support and rounded corners" width="800">
+
+**Time spent:** 3 hrs
+
+**Lapse link:** <a href="https://lapse.hackclub.com/timelapse/U-9jxX9-YpG4">Day 7</a>
