@@ -4,8 +4,8 @@
 
 **Author:** Jishnu Dutta
 **Started:** 19 June 2026
-**Progress:** 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%
-**Current Stage:** Case final touches
+**Progress:** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
+**Current Stage:** Waiting for Kit
 
 ---
 
