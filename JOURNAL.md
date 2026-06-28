@@ -4,7 +4,7 @@
 
 **Author:** Jishnu Dutta
 **Started:** 19 June 2026
-**Progress:** 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%
+**Progress:** 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%
 **Current Stage:** Case final touches
 
 ---
@@ -80,7 +80,9 @@ Today I finished designing the top case. I added all the required cutouts, inclu
 
 > **Note:** The Lapse website was offline for most of the day, so I could only record about **30 minutes**, even though I worked for **around 3 hours**.
 
-<img src="devlog-assets/topplate-v1.png" alt="Top case with all cutouts" width="800">
+<img src="devlog-assets/topplate-v1.png" alt="Top case with all cutouts" width="600">
+<img src="devlog-assets/typecport.png" alt="USB type-C port" width="600">
+
 
 **Time spent:** 3 hrs
 
