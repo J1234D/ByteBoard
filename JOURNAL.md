@@ -101,8 +101,7 @@ Today I redesigned the mounting system to support **M3 × 5 × 4 mm heat-set ins
 
 **Lapse link:** <a href="https://lapse.hackclub.com/timelapse/U-9jxX9-YpG4">Day 7</a>
 
-# Day 8 — 28.06.2026: Heat-Set Inserts & Final Touches
-
+# Day 8 — 28.06.2026: Completed case and firmware(Ready to Ship)
 Today I added colors to the case, added rounded corners and finalized the case design. Then I learned circuit python and wrote the temporary firmware.
 I also shipped the project.
 
