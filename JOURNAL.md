@@ -70,7 +70,7 @@ I fixed the standoffs, added walls in the bottom part of the case. I also had to
 
 <img src="devlog-assets/bottomplate-v2.png" alt="pcb with bottomplate" width="800">
 
-Time spent: 3hrs
+Time spent: 3 hrs
 
 Lapse link: <a href="https://lapse.hackclub.com/timelapse/Zt0mHt_HGtjv">Day 5</a>
 
@@ -97,6 +97,19 @@ Today I redesigned the mounting system to support **M3 × 5 × 4 mm heat-set ins
 
 <img src="devlog-assets/topplate-v2.png" alt="Heat-set insert support and rounded corners" width="800">
 
-**Time spent:** 3 hrs
+**Time spent:** 2 hrs
 
 **Lapse link:** <a href="https://lapse.hackclub.com/timelapse/U-9jxX9-YpG4">Day 7</a>
+
+# Day 8 — 28.06.2026: Heat-Set Inserts & Final Touches
+
+Today I added colors to the case, added rounded corners and finalized the case design. Then I learned circuit python and wrote the temporary firmware.
+I also shipped the project.
+
+<img src="devlog-assets/assembledcase.png" alt="assembled case" width="800">
+
+
+**Time spent:** 4.5 hrs
+
+**Lapse link:** <a href="https://lapse.hackclub.com/timelapse/_NHgY39VfMSt">Day 8</a>
+
