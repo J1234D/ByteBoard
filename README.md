@@ -6,4 +6,6 @@ I started this project as part of Hack Club Stardance because I wanted to learn 
 
 The result is a compact macropad that's useful for coding, video editing, media controls, and everyday shortcuts while also being a fun project to customize. Since everything is open source, you can easily change the firmware, modify the hardware, or even design your own version.
 
+
+
 ➡️ [Read the full journal](./JOURNAL.md)
